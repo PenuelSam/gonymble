@@ -5,7 +5,7 @@ import Customer from '../custormer/Customer'
 const Forms = ({onCloseModal}) => {
   return (
     <div className='relative'>
-        <Close onClick={onCloseModal} className='cursor-pointer text-[20px] absolute text-white right-0'/>
+        <Close onClick={onCloseModal} fontSize='large' className='cursor-pointer top-5  absolute text-white right-0'/>
         <Customer />
     </div>
   )

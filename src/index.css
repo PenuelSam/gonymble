@@ -114,7 +114,7 @@
     @apply px-7 py-5 bg-white/70 bg-clip-padding backdrop-filter rounded active:scale-90 transition-all duration-100 ease-in-out shadow-md sm:text-sm;
   }
   .btn-theme {
-    @apply px-7 py-5 bg-clip-padding backdrop-filter rounded active:scale-90 transition-all duration-100 ease-in-out shadow-md sm:text-sm;
+    @apply px-7 py-3 bg-clip-padding backdrop-filter rounded active:scale-90 transition-all duration-100 ease-in-out shadow-md sm:text-sm;
   }
 
   /* tranistions-theme */
